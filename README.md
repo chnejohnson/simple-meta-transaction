@@ -1,4 +1,4 @@
-# Simple Meta_Transactions
+# Simple Meta-Transactions
 
 ## Guild
 ### Step 1: Run Hardhat Network
